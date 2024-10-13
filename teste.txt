@@ -2,4 +2,8 @@
 
 "É difícil, mas vai dar certo"
 
-git push é dificil
+git push é difícil
+
+git pull também
+
+mas vamos aprender!!

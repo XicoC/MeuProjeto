@@ -1,0 +1,5 @@
+"Oi, eu sou o seu primeiro repositório Git"
+
+"É difícil, mas vai dar certo"
+
+git push é dificil
